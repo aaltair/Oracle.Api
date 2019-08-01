@@ -91,7 +91,7 @@ If you have an issue with database init like DBCA operation failed, please reffe
 
 
 
-**Finaly install Oracle Data Accese Clint (ODAC) for Windows **: 
+**Finaly install Oracle Data Accese Client (ODAC) for Windows **: 
 https://www.oracle.com/technetwork/topics/dotnet/utilsoft-086879.html
 
 
