@@ -1,6 +1,6 @@
 # Oracle.Api
 
- create smpile .net core webapi with  entity Framework core,  oracle db , unit of work  , JWT  , docker 
+ create simple .net core webapi with  entity Framework core,  oracle db , unit of work  , JWT  , docker 
  
  **first install docker form https://hub.docker.com/editions/community/docker-ce-desktop-windows
  
