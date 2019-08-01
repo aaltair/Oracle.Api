@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29111.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oracle.api", "oracle.api\oracle.api.csproj", "{38896703-8701-428F-AE5B-ED86B72AD210}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38896703-8701-428F-AE5B-ED86B72AD210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38896703-8701-428F-AE5B-ED86B72AD210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38896703-8701-428F-AE5B-ED86B72AD210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38896703-8701-428F-AE5B-ED86B72AD210}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C54437F1-1AC7-408A-B614-420ED6DDE166}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\aaltair\Desktop\Projects\Backend\oracle.api\oracle.api\obj\Debug\netcoreapp2.2\oracle.api.csproj.CoreCompileInputs.cache
+C:\Users\aaltair\Desktop\Projects\Backend\oracle.api\oracle.api\obj\Debug\netcoreapp2.2\oracle.api.AssemblyInfoInputs.cache
+C:\Users\aaltair\Desktop\Projects\Backend\oracle.api\oracle.api\obj\Debug\netcoreapp2.2\oracle.api.AssemblyInfo.cs
+C:\Users\aaltair\Desktop\Projects\Backend\oracle.api\oracle.api\bin\Debug\netcoreapp2.2\oracle.api.deps.json
+C:\Users\aaltair\Desktop\Projects\Backend\oracle.api\oracle.api\bin\Debug\netcoreapp2.2\oracle.api.runtimeconfig.json
+C:\Users\aaltair\Desktop\Projects\Backend\oracle.api\oracle.api\bin\Debug\netcoreapp2.2\oracle.api.runtimeconfig.dev.json
+C:\Users\aaltair\Desktop\Projects\Backend\oracle.api\oracle.api\bin\Debug\netcoreapp2.2\oracle.api.dll
+C:\Users\aaltair\Desktop\Projects\Backend\oracle.api\oracle.api\bin\Debug\netcoreapp2.2\oracle.api.pdb
+C:\Users\aaltair\Desktop\Projects\Backend\oracle.api\oracle.api\obj\Debug\netcoreapp2.2\oracle.api.csprojAssemblyReference.cache
+C:\Users\aaltair\Desktop\Projects\Backend\oracle.api\oracle.api\obj\Debug\netcoreapp2.2\oracle.api.RazorAssemblyInfo.cache
+C:\Users\aaltair\Desktop\Projects\Backend\oracle.api\oracle.api\obj\Debug\netcoreapp2.2\oracle.api.RazorAssemblyInfo.cs
+C:\Users\aaltair\Desktop\Projects\Backend\oracle.api\oracle.api\obj\Debug\netcoreapp2.2\oracle.api.RazorTargetAssemblyInfo.cache
+C:\Users\aaltair\Desktop\Projects\Backend\oracle.api\oracle.api\obj\Debug\netcoreapp2.2\oracle.api.dll
+C:\Users\aaltair\Desktop\Projects\Backend\oracle.api\oracle.api\obj\Debug\netcoreapp2.2\oracle.api.pdb
